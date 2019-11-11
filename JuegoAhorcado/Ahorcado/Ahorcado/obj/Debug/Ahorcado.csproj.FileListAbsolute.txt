@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.GameOver.resources
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.PantallaAhorcado.resources
+C:\Users\Usuario\Desktop\VisualStudio\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Winner.resources
